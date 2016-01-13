@@ -1,5 +1,5 @@
-# The Iron Yard Rails Engineering Prework
-## Atlanta Q3 2015: Sep 21 - Dec 18
+# The Iron Yard Backend Engineering Prework
+## Atlanta Q1 2016: Feb 01 - Apr 22
 
 _Brit Butler (brit@theironyard.com)_
 
@@ -9,25 +9,24 @@ to cover and precious little time to cover it in. You need to complete
 some preliminary work so we can have a common starting point and hit
 the ground running.
 
-As much as anything, these assignments will make sure that you've got
-basic familiarity with some key concepts so you don't feel lost right
-out of the gate.
+These assignments will make sure that you've got basic familiarity 
+with some key concepts so you aren't lost right out of the gate.
 
 Importantly, this work will assure me that you:
 
 1. can self-direct progress on technical projects
-2. have been exposed to some major technologies we'll be using in class
-3. can communicate difficulties and accomplishments clearly
+2. have been exposed to major technologies we'll be using in class
+3. can communicate struggles and accomplishments clearly
 4. have reflected on your learning style
 
-*Note*: Point 2 is not "have internalized every nuance", but I will
+*Note*: Point 2 is not "have internalized every detail", but I will
 expect you to at least be _familiar_ with e.g. `git` and the terminal.
 
 ## Requirements
 
-Review and complete the tasks below by **Sep 18**. Any
+Review and complete the tasks below by **Jan 30**. Any
 deliverables should be emailed to me by then. If you have any
-questions, *please email me*, I'd love to answer questions!
+questions, *please email me*, I'd love to help!
 (Expect a little good-natured shaming if it's 24 hours before the deadline.)
 
 You will need to sign up for Treehouse to complete some of these
@@ -50,29 +49,21 @@ The tasks are grouped into 4 major categories:
 However mundane it may sound, a text editor is one of the most important
 tools in a developer's life. I believe that big internet fights about which
 text editor is _"best"_ are pointless but picking and becoming familiar with
-**a text editor** is essential. Here is a brief survey of your options:
+**some text editor** is essential. Some common options:
 
 * Sublime Text 3
-  * Pros: Friendly UI, Snappy, good plugin/package ecosystem.
-  * Cons: Non-free but demo only occasionally nags to upgrade/no "locked" features.
+  * Pros: Friendly UI, Snappy, good plugin ecosystem.
+  * Cons: Non-free but demo only nags to upgrade
 * Atom
-  * Pros: Similar to Sublime but free, younger/decent plugin ecosystem.
-  * Cons: Can be slow, especially to open.
-* Vim
-  * Pros: Ancient and very powerful modal editor, works in a terminal, free, ubiquitous.
-  * Cons: Steeeeep learning curve.
-* Emacs
-  * Pros: Endlessly tweakable. Free, best package ecosystem, works in a terminal.
-  * Cons: Endlessly tweakable, ancient/arcane, steep learning curve, temptation to fiddle, etc.
+  * Pros: Similar to Sublime but free, very actively developed.
+  * Cons: Can be slow on older computers.
+* RubyMine
+  * Pros: IDE features (versioning/testing integration, refactoring)
+  * Cons: Too smart for its own good, can get confused or in your way
 
-I'm an Emacs user myself, but won't be requiring it (it distracts
-too much from learning to code). I'll use it in lecture and explain 
-how to do the same thing in your editors as needed.
-
-If pressed, I would say to grab SublimeText or Atom unless you're already
-committed to Emacs or Vim. Sure, Sublime is $60 (or look at a nag screen forever)
-but you'll need a good text editor your whole career anyway and while
-popular technologies and languages change, text editors don't.
+I'm an Emacs user myself, but don't recommend it (distracts too much
+from learning to code). Grabbing SublimeText or Atom should be great
+assuming you don't already have an editor you like.
 
 #### Type some code!
 
@@ -101,8 +92,6 @@ never opened up a terminal before, now is the time to get comfortable.
   [Getting Started with the Console](http://teamtreehouse.com/library/console-foundations#getting-started-with-the-console)
 * Go through the Treehouse course on
   [Users and Permissions](http://teamtreehouse.com/library/console-foundations#users-and-permissions)
-* Go through the Treehouse course on
-  [Environment and Redirection](http://teamtreehouse.com/library/programming/console-foundations#environment-and-redirection)
 * Read and practice with
   [A Command Line Primer for Beginners](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
 
@@ -141,31 +130,8 @@ in mind:
 2. Make sure to add a profile picture and your full name
 3. Email me the username you choose so that I can get you added to the group we'll be using for class
 4. Add an SSH Public Key to your account as explained [here](https://help.github.com/articles/generating-ssh-keys/).
-5. (Optional) Check out the [GitHub Guides](https://guides.github.com/) if you want to learn how to use GitHub prior to class.
 
 ### Programming
-
-#### HTML / CSS
-
-Often, our Rails apps will need to produce HTML and CSS.
-Unfortunately, we will not spend very much course time on these topics.
-Some students will be familiar with these technologies from past experiences.
-
-Especially if you are not, it is quite important that you familiarize
-(or re-familiarize) yourself with them since our coverage in class will be brief.
-
-1. Complete the
-   [Codecademy HTML & CSS course](http://www.codecademy.com/en/tracks/web)
-2. (Optional) Read through [learnlayout.com](http://learnlayout.com) to better
-   understand how to do layout with CSS.
-
-(Treehouse has some additional material that you can check out, though
-it goes into more depth than I'd expect you to work through on your
-own.)
-
-This class is primarily concerned with data flow and functionality
-over design, so a little bit of extra CSS experience can really help
-you stand out and make your projects look significantly more polished.
 
 #### Ruby
 
@@ -177,10 +143,10 @@ want your first exposure to be in lecture.
    [Codecademy Ruby course](http://www.codecademy.com/en/tracks/ruby). Work
    through at least "Arrays & Hashes", but feel free to go farther if
    you'd like.
-2. (Optional) Sign up for [Exercism.io](http://exercism.io) with your new Github
-   account. Work through the Ruby track as best as you can. The important thing
-   here isn't to complete everything but to spend some time applying what you've
-   learned.
+2. (Optional) Sign up for [Exercism.io](http://exercism.io) or
+   [RubyMonk](https://rubymonk.com) with your new Github account. Work
+   through the ruby exercises as best as you can. The important thing
+   here isn't to complete everything but to spend some time working with ruby.
 
 ## Reflection / Deliverables
 
@@ -195,22 +161,5 @@ do you want to be in 3 months? 12?
    via email.
 
 We'll be encouraging this sort of reflections throughout the course -
-if you feel comfortable sharing publicly, this would be a good time to
-start a blog and post them there.
-
-
-## Feedback & Community
-
-You will be added to hipchat and slack at the beginning of the course,
-but there is not a proper forum or mailing list for discussion of work
-beforehand.
-
-In light of that, I'll be hanging out on the **Freenode**
-[IRC](https://kiwiirc.com/client) network hosting an #ironyard chatroom
-until the course starts. Feel free to sign on, discuss prework, ask general
-questions, discuss programming issues, and just get to know me and
-each other. I'll be checking messages/logs a few times a day.
-
-If you've never used IRC before, don't worry. There's no need to install anything.
-Just click the link above, select *Freenode* as the featured network on the right,
-write in `#ironyard` as the Channel and pick a nickname.
+if you feel comfortable sharing publicly, this would be an excellent time
+to start a blog and post them there.

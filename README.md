@@ -7,10 +7,6 @@
 
 ## Policies
 
-In general, I'll be treating you like autonomous adults, which means
-**you will have plenty of rope to hang yourself**. There are a few things I'll
-make explicit though...
-
 ### Attendance
 
 Attendance is expected every day class is in session. If you
@@ -20,7 +16,7 @@ miss more than **4** days, your job placement assistance may be forfeit.
 
 Homework will be assigned daily and semi-regularly discussed in class the next
 day. It is **your** responsibility to be sure you're keeping up with the
-homework and seek out help (from a TA or myself) if you're struggling.
+homework and seek out help if you're struggling.
 
 The course will culminate in a large final project, likely in a group
 with 1 or 2 Frontend developers. The last 3 weeks of class will

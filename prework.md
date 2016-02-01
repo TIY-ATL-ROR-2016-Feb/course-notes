@@ -1,5 +1,5 @@
 # The Iron Yard Backend Engineering Prework
-## Atlanta Q1 2016: Feb 01 - Apr 22
+## Atlanta Q1 2016: Feb 22 - May 13
 
 _Brit Butler (brit@theironyard.com)_
 

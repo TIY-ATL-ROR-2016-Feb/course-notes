@@ -216,6 +216,7 @@ use Smalltalk these days but Avdi is right that [Pharo][pharo] is free to downlo
 and very cool to play around with!
 
 [pharo]: http://pharo-project.org
+[small-avdi]: http://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/
 [sbpp]: http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
 
 (Free draft: http://stephane.ducasse.free.fr/FreeBooks/BestSmalltalkPractices/Draft-Smalltalk%20Best%20Practice%20Patterns%20Kent%20Beck.pdf)
